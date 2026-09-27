@@ -199,7 +199,7 @@ https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/ra
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="🇮🇩 Nasional", group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" ch-number="32" tvg-id="SindoNewsTV.id" tvg-name="Indonesiana TV", Indonesiana TV
+#EXTINF:-1 tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="🇮🇩 Nasional", group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" ch-number="32" tvg-id="Indonesiana TV.id" tvg-name="Indonesiana TV", Indonesiana TV
 #EXTVLCOPT:http-referrer=https://indonesiana.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -207,3 +207,4 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/in
 https://tvstreamcast.com/indonesiana.m3u8
 
 Hanya untuk penggunaan pribadi
+#EXTM3U billed-msg="😎⛔ Source Playlist Ini [Gratis] Jangan Diperjualbelikan ⛔😎"
