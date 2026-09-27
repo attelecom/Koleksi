@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
 #EXTM3U
-# (●) Last Update: 2026-09-27 10:10:10 GMT+7 "
+# (●) Last Update: 2026-09-27 09:09:00 GMT+7 "
 
 
 =MNC=
@@ -189,16 +189,16 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/raw/cc6c795550360033c3dfec81926d30e79ec4d6e4/7e5676155536bd5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" ch-number="31" tvg-id="SindoNewsTV.id" tvg-name="Sindonews", SindoNews
+#EXTINF:-1 tvgtvg-logo="https://warningfm.github.io/v3/img/Q0z325e.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="31" tvg-id="SindoNewsTV.id" tvg-name="Sindonews", SindoNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana", Indonesiana
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana", Indonesiana
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/65169ac6d2221de0cf3346bac07e65c6e67b3fc9/indonesiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="Asian.Food.Network.id" ch-number="33" tvg-name="Asian Food Network", AFN
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" tvg-id="Asian.Food.Network.id" ch-number="33" tvg-name="Asian Food Network", AFN
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://khano.nng.cloudns.us/live/m3u8/int/17a9069cb71209c.m3u8
 
