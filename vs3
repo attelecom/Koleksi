@@ -202,7 +202,7 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/raw/cc6c795550360033c3dfec81926d30e79ec4d6e4/7e5676155536bd5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1", ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV", Oxygen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1" ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV", Oxygen TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana", Indonesiana
