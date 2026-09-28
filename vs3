@@ -70,6 +70,7 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 https://vidsemar.pages.dev/terraluna2/8237.mpd
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="10" tvg-id="Trans7.id" tvg-name="Trans7", Trans 7
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
@@ -195,11 +196,8 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/raw/cc6c795550360033c3dfec81926d30e79ec4d6e4/7e5676155536bd5.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Q0z325e.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="31" tvg-id="SindoNewsTV.id" tvg-name="Sindonews", SindoNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1", ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV", Oxygen TV
+https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana", Indonesiana
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/65169ac6d2221de0cf3346bac07e65c6e67b3fc9/indonesiana.m3u8
