@@ -247,7 +247,7 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 #EXTINF:-1 ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="🇮🇩 Nasional" group-logo="", RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790978232~hmac=1969393a34a14976dc276b5caf5a2309583cb67258b6dbe71469d821be51eb8a
+#https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790978232~hmac=1969393a34a14976dc276b5caf5a2309583cb67258b6dbe71469d821be51eb8a
 
 #EXTINF:-1 ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="🇮🇩 Nasional" group-logo="", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -257,7 +257,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Akt" group-logo="", MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790978233~hmac=c5fc3146ff1740cecadf16eb23983579e8844abd7e5657a4f974fa30f51b1481
+#https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790978233~hmac=c5fc3146ff1740cecadf16eb23983579e8844abd7e5657a4f974fa30f51b1481
 
 #EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Alt" group-logo="", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -267,7 +267,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="🇮🇩 Nasional" group-logo="", GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790978233~hmac=e1d880442fac82128e79dc82d529c1899f699e9830a3301014f1894ebff64a5a
+#https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790978233~hmac=e1d880442fac82128e79dc82d529c1899f699e9830a3301014f1894ebff64a5a
 
 #EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="🇮🇩 Nasional" group-logo="", GTV
 #EXTVLCOPT:http-user-agent=android-R+
