@@ -1,8 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
 #EXTM3U
-# (●) Last Update: 2026-10-03 00:50:50 GMT+7 "
+# (●) Last Update: 2026-10-03 18:10:18 GMT+7 "
 
+#EXTINF:-1 group-title="🇮🇩 Nasional" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", MAKKAH TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://calistaiptv.my.id/indopart/play.m3u8?id=6852&type=hls
 
 =MNC=
 
