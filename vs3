@@ -97,13 +97,13 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 
 =VIVA=
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="13" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
+#EXTINF:-1 ch-number="13" tvg-id="ANTV.id" tvg-name="ANTV." tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ANTV.png" group-title="🇮🇩 Nasional" group-logo="", ANTV
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CTqyhF2.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="14" tvg-id="TVOne.id" tvg-name="TVOne.id", TVOne
+#EXTINF:-1 ch-number="14" tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVONE.png" group-title="🇮🇩 Nasional" group-logo="", TVOne
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
@@ -111,14 +111,14 @@ http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 =MEDIA=
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="15" tvg-id="MetroTV.id" tvg-name="Metro TV.id", Metro TV
+#EXTINF:-1 ch-number="15" tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/METROTV.png" group-title="🇮🇩 Nasional" group-logo="", Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cca.m3u8
 
 
 =KOMPAS GRAMEDIA=
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="16" tvg-id="Kompas.TV.id" tvg-name="Kompas TV", Kompas TV
+#EXTINF:-1 ch-number="16" tvg-id="Kompas.TV.id" tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/KOMPASTV.png" group-title="🇮🇩 Nasional" group-logo="", Kompas TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
@@ -126,19 +126,19 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 =TVRI=
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="17" tvg-id="TVRI.id" tvg-name="TVRI Nasional.id", TVRI Nasional HD
+#EXTINF:-1 ch-number="17" tvg-id="TVRI.id" tvg-name="TVRI Nasional.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRINAS.png" group-title="🇮🇩 Nasional" group-logo="", TVRI Nasional HD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="18" tvg-id="TVRI Sport.id" tvg-name="TVRI Sport.id", TVRI Sport
+#EXTINF:-1 ch-number="18" tvg-id="TVRI Sport.id" tvg-name="TVRI Sport" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRISPORT.png" group-title="🇮🇩 Nasional" group-logo="", TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TVeDnBe.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="19" tvg-id="TVRI World.in" tvg-name="TVRI World.in", TVRI World
+#EXTINF:-1 ch-number="19" tvg-id="TVRI World.in" tvg-name="TVRI World" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRIWORLD.png" group-title="🇮🇩 Nasional" group-logo="", TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
@@ -149,63 +149,63 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 
 =LAIN-LAIN=
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aNYcSQ.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="20" tvg-id="RTV.id" tvg-name="RTV.id", RTV
+#EXTINF:-1 ch-number="20" tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RTV.png" group-title="🇮🇩 Nasional" group-logo="", RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="21" tvg-id="MDTV.id" tvg-name="MDTV.id", MDTV
+#EXTINF:-1 ch-number="21" tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MDTV.png" group-title="🇮🇩 Nasional" group-logo="", MDTV
 #EXTVLCOPT:http-referrer=https://www.md.now/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HM01rkg.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="22" tvg-id="GarudaTV.id" tvg-name="Garuda TV.id", Garuda TV
+#EXTINF:-1 ch-number="22" tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GARUDATV.png" group-title="🇮🇩 Nasional" group-logo="", Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="23" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV.id", Nusantara TV
+EXTINF:-1 ch-number="23" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/NUSANTARATV.png" group-title="🇮🇩 Nasional" group-logo="", Nusantara TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iKHK6tC.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="24" tvg-id="BTV.id" tvg-name="BTV.id", BTV
+#EXTINF:-1 ch-number="24" tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BTVINDO.png" group-title="🇮🇩 Nasional" group-logo="", BTV
 #EXTVLCOPT:http-referrer=https://btv.id/
 #EXTVLCOPT:http-origin=https://btv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="25" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
+EXTINF:-1 ch-number="25" tvg-name="Berita Satu.id" tvg-name="Berita Satu" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BERITASATU.png" group-title="🇮🇩 Nasional" group-logo="", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZpcePba.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="26" tvg-id="Magna Channel.id" tvg-name="Magna Channel.id", Magna Channel
+#EXTINF:-1 ch-number="26" tvg-id="Magna Channel.id" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MAGNA.png" group-title="🇮🇩 Nasional" group-logo="", Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/H5CmoZv.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="27" tvg-id="BNTV" tvg-name="BN Channel", BN Channel
+#EXTINF:-1 ch-number="27" tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BNTV.png" group-title="🇮🇩 Nasional" group-logo="", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV.id", Jawa Pos TV
+#EXTINF:-1 ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/JAWAPOSTV.png" group-title="🇮🇩 Nasional" group-logo="", Jawa Pos TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sL29R2J.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="29" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV.id", SIN PO TV
+#EXTINF:-1 ch-number="29" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" ch-number="30" tvg-id="VTV.id" tvg-name="VTV.id", VTV 
+#EXTINF:-1 ch-number="30" tvg-id="VTV.id" tvg-name="VTV.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/VTV.png" group-title="🇮🇩 Nasional" group-logo="", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/raw/cc6c795550360033c3dfec81926d30e79ec4d6e4/7e5676155536bd5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1" ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV", Oxygen TV
+#EXTINF:-1 ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/OXYGENTV.png" group-title="🇮🇩 Nasional" group-logo="", Oxygen TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana", Indonesiana
+#EXTINF:-1 ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDONESIANA.png" group-title="🇮🇩 Nasional" group-logo="", Indonesiana
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/65169ac6d2221de0cf3346bac07e65c6e67b3fc9/indonesiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" tvg-id="Asian.Food.Network.id" ch-number="33" tvg-name="Asian Food Network", AFN
+#EXTINF:-1 ch-number="33" tvg-name="Asian Food Network" tvg-id="AFN" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/AFN.png" group-title="🇮🇩 Nasional" group-logo="", AFN
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://khano.nng.cloudns.us/live/m3u8/int/17a9069cb71209c.m3u8
@@ -214,46 +214,54 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 # === ALTERNATIVE CHANNEL ===
 # Updated: 2026-10-03 16:50:50
 
-<==================================================== SPORTS ====================================================>
+<==================================================== CADANGAN ====================================================>
 
 #MNC#
 
-#EXTINF:-1 ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="Nasional Alt" group-logo="", RCTI
+RCTI
+
+#EXTINF:-1 ch-number="" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="Nasional Alt" group-logo="", RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790978232~hmac=1969393a34a14976dc276b5caf5a2309583cb67258b6dbe71469d821be51eb8a
 
-#EXTINF:-1 ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="Nasional Alt" group-logo="", RCTI
+#EXTINF:-1 ch-number="" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="Nasional Alt" group-logo="", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Alt" group-logo="", MNCTV
+MNCTV
+
+#EXTINF:-1 ch-number="" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Alt" group-logo="", MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790978233~hmac=c5fc3146ff1740cecadf16eb23983579e8844abd7e5657a4f974fa30f51b1481
 
-#EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Alt" group-logo="", MNCTV
+#EXTINF:-1 ch-number="" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="Nasional Alt" group-logo="", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
-#EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="Nasional Alt" group-logo="", GTV
+GTV
+
+#EXTINF:-1 ch-number="" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="Nasional Alt" group-logo="", GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790978233~hmac=e1d880442fac82128e79dc82d529c1899f699e9830a3301014f1894ebff64a5a
 
-#EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="Nasional Alt" group-logo="", GTV
+#EXTINF:-1 ch-number="" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="Nasional Alt" group-logo="", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
-#EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="Nasional Alt" group-logo="", iNews
+INEWS
+
+#EXTINF:-1 ch-number="" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="Nasional Alt" group-logo="", iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790978233~hmac=d000d5a6c40ce585d4ffaae2614fca15e92c42f5a173b1fd5331d10828fd9ff8
 
-#EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="Nasional Alt" group-logo="", iNews
+#EXTINF:-1 ch-number="" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="Nasional Alt" group-logo="", iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
@@ -330,5 +338,5 @@ https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
 
 # === END ALTERNATIVE CHANNEL ===
 
-Hanya untuk penggunaan pribadi
+
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini Hanya Untuk Penggunaan Pribadi Tidak Diperjual-belikan⛔😎"
