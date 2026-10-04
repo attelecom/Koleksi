@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
 
 #EXTM3U
-# (●) Last Update: 2026-10-03 18:10:18 GMT+7 "
+# (●) Last Update: 2026-10-04 15:00:15 GMT+7 "
 
 #EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -32,7 +32,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
+#EXTINF:-1 ch-number="4" tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -118,7 +118,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cca.m3u8
 
 =KOMPAS GRAMEDIA=
 
-#EXTINF:-1 ch-number="16" tvg-id="Kompas.TV.id" tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/KOMPASTV.png" group-title="🇮🇩 Nasional" group-logo="", Kompas TV
+#EXTINF:-1 ch-number="16" tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/KOMPASTV.png" group-title="🇮🇩 Nasional" group-logo="", Kompas TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
