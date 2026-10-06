@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml" refresh="3600"
 
 #EXTM3U
-# (●) Last Update: 2026-10-06 17:00:17 GMT+7 "
+# (●) Last Update: 2026-10-07 06:37:17 GMT+7 "
 
 #EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -11,6 +11,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=153
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+
 
 =MNC=
 
@@ -38,12 +39,14 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 =EMTEK=
 
 #EXTINF:-1 ch-number="5" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional" group-logo="", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 ch-number="6" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional" group-logo="", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 ch-number="7" tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MOJI.png" group-title="🇮🇩 Nasional" group-logo="", Moji
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -218,7 +221,7 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 
 
 # === ALTERNATIVE CHANNEL ===
-# Updated: 2026-10-06 17:00:17
+# Updated: 2026-10-07 06:37:17
 
 <==================================================== CADANGAN ====================================================>
 
@@ -262,6 +265,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 SCTV
 
 #EXTINF:-1 ch-number="" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="Nasional Alt" group-logo="", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -287,6 +292,8 @@ https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 INDOSIAR
 
 #EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="Nasional Alt" group-logo="", Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
