@@ -177,10 +177,8 @@ EXTINF:-1 ch-number="23" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-log
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
 #EXTINF:-1 ch-number="24" tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BTVINDO.png" group-title="🇮🇩 Nasional" group-logo="", BTV
-#EXTVLCOPT:http-referrer=https://btv.id/
-#EXTVLCOPT:http-origin=https://btv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
 EXTINF:-1 ch-number="25" tvg-name="Berita Satu.id" tvg-name="Berita Satu" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BERITASATU.png" group-title="🇮🇩 Nasional" group-logo="", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
