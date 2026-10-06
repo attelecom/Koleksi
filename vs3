@@ -65,16 +65,22 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 =TRANS MEDIA=
 
 #EXTINF:-1 ch-number="9" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional" group-logo="", Trans TV
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 ch-number="10" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional" group-logo="", Trans7
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 ch-number="11" tvg-id="CNNIndonesia.id" tvg-name="CNNIndonesia.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/CNNINDO.png" group-title="🇮🇩 Nasional" group-logo="", CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -306,9 +312,30 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 #https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 
+#TRANSVISION
+
+#EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="Nasional Alt" group-logo="", Trans TV
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62186
+
+#EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="Nasional Alt" group-logo="", Trans TV
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="Nasional Alt" group-logo="", Trans7
+#EXTINF:-1 tvg-id="" tvg-name="Trans7 ID" tvg-logo="" group-title="Indonesia",Trans7 ID
+
+#EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="Nasional Alt" group-logo="", Trans7
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
+
 #VIVA#
 
-#EXTINF:-1 ch-number="" tvg-id="ANTV.id" tvg-name="ANTV." tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ANTV.png" group-title="Nasional Alt" group-logo="", ANTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="Nasional Alt" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="ANTV.id" tvg-name="ANTV.id", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -316,23 +343,6 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=782&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
 
-#TRANSMEDIA
-
-#EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="Nasional Alt" group-logo="", Trans TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w268557525_b384000_sleng.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="Nasional Alt" group-logo="", Trans7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.detik.com/
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 # === END ALTERNATIVE CHANNEL ===
 
