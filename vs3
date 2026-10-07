@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml" refresh="3600"
 
 #EXTM3U
-# (●) Last Update: 2026-10-06 17:00:17 GMT+7 "
+# (●) Last Update: 2026-10-07 09:45:09 GMT+7 "
 
 #EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -221,7 +221,7 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 
 
 # === ALTERNATIVE CHANNEL ===
-# Updated: 2026-10-06 17:00:17
+# Updated: 2026-10-07 09:45:09
 
 <==================================================== CADANGAN ====================================================>
 
@@ -349,6 +349,7 @@ http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWlgqdfrd
 #EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans TV
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62186
 
+#EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=transtv
 
