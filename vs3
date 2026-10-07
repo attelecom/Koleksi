@@ -42,10 +42,6 @@ http://202.150.172.59/Indosiar/index.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 ch-number="8" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional" group-logo="", Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
-http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
-#cadangan:
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -277,14 +273,15 @@ SCTV
 
 #EXTINF:-1 ch-number="" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+http://tvratu.my.id/vid/index.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 CADANGAN
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=2048&type=drm
-http://tvratu.my.id/vid/index.mpd?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=204&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=dash
 
 #EXTINF:-1 ch-number="" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -311,13 +308,14 @@ INDOSIAR
 #EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional Alt" group-logo="", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 CADANGAN
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=205&type=drm
-http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://ratuvidio.adptv.workers.dev/index.mpd?id=205&type=dash
 
 #EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional Alt" group-logo="", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -337,6 +335,11 @@ https://vidsemar.pages.dev/terraluna2/205.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+
+#EXTINF:-1 ch-number="8" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional Alt" group-logo="", Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
 
 #TRANSVISION
