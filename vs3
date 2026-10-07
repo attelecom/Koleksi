@@ -281,6 +281,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 SCTV
 
 #EXTINF:-1 ch-number="" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -306,6 +309,9 @@ https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
 
 INDOSIAR
+
+#EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional Alt" group-logo="", Indosiar
+http://202.150.172.59/Indosiar/index.m3u8
 
 #EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional Alt" group-logo="", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
