@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" group-title="Nasional",Trans 7
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV 
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
@@ -9,9 +8,32 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="Indonesia Channels",TRANS TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="CADANGAN",TRANS TV
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWlgqdfrd2_NOs-03Qe2iQTV
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="Indonesia Channels",Trans-7
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="CADANGAN",Trans-7
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWms5nBvsmR3Kg-IjWDDTyDG
 
+#EXTINF:-1 tvg-id="MNCTV.id@HD",MNCTV HD
+http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SCTV.id@SD",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@HD",RCTI HD (1080p)
+http://202.150.172.59/RCTIHD/index.m3u8
+#EXTINF:-1 tvg-id="GTV.id@HD",GTV HD (1080p)
+http://202.150.172.59/GTVHD/index.m3u8
+#EXTINF:-1 tvg-id="iNews.id@HD",iNews HD (1080p)
+http://202.150.172.59/iNews/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id@HD",Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@HD",TVRI (1080p)
+http://202.150.172.59/TVRI/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id@SD",TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV (1080p)
+http://202.150.172.59/RajawaliTV/index.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD",Magna Channel (1080p)
+http://202.150.172.59/MagnaChannel/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id@HD",VTV HD (1080p)
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
