@@ -5,27 +5,189 @@ Playlist Ujicoba, tidak digunakan
 #EXTM3U
 # (●) Last Updated: 2026-10-07 17:49:17 GMT+7 "
 
-#EXTINF:-1 tvg-id="190" tvg-name="adptv-190" tvg-logo="https://i.ibb.co.com/23WVwVPq/transtv.png" group-title="🇮🇩| Indonesia",TransTV (cubmu)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmustv.tvnid.workers.dev
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#EXTINF:-1 tvg-id="189" tvg-name="adptv-189" tvg-logo="https://i.ibb.co.com/tMt13q7K/trans7.png" group-title="🇮🇩| Indonesia",Trans7 (cubmu)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmustv.tvnid.workers.dev
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="News;Sports",Sin Po TV
-https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=jtv
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/GmtPmfKR/ezgif-7a3f05b6eddb8b9c.png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVONE/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NET/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/RFswJm0R/bali-tv-id.png",BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-BALITV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/Fs1ScsDZ/ezgif-1-78f6f17e1e.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eat_and_go_id.png",EAT & GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/insert_id.png",!NSERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/musik-indonesia-id.png",MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-plus-id-id.png",GOLF PLUS ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GOLF/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaming-tv.png",GAMING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight-tv.png",FIGHT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FIGHTSPORTS/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-tv.png",SPORTS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9fNnV6js/cna-sg.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CNA/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/BvXGxcZ3/celestial-movies-hk.png",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/6Q7D7Wz3/thrill-hk.png",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-THRILL/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/dV5Y349G/ezgif-2cf4aa559688f23e.png",CINEMAWORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CGTN/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9MMVxHp4/ezgif-6457788ed7f0a9.png",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NHKPREMIUM/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/d1HyM5GY/arirang.png",ARIRANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVN/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/bNWrDJ9q/axn-east-asia.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/jqgmHygJ/ezgif-48a9aa9cda23e1f4.png",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ABCAUSTRALIA/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png",DW ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/tJKzrRn2/ezgif-43179727fc7cce7b.png",EURONEWS.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/kXFtqMQH/ezgif-67b147fe9146efb9.png",TV5 MONDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV SOUTHEAST ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://103.148.44.38:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://103.148.44.38:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://103.148.44.38:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://103.148.44.38:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://103.148.44.38:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/zXJGwChc/ezgif-67daec0494f623a7.png",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
 
 
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini Hanya Untuk Penggunaan Pribadi Tidak Diperjual-belikan⛔😎"
