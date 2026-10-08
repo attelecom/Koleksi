@@ -163,9 +163,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
 #EXTINF:-1 ch-number="26" tvg-id="magna.tv" tvg-name="MAGNA TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MAGNA.png" group-title="🇮🇩 Nasional" group-logo="", Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://202.150.172.59/MagnaChannel/index.m3
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 ch-number="27" tvg-id="bn.channel" tvg-name="BN Channel" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BNTV.png" group-title="🇮🇩 Nasional" group-logo="", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
