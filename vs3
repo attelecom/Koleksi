@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml" refresh="3600"
 
 #EXTM3U
 # (●) Last Updated: 2026-10-09 19:01:12 GMT+7 "
