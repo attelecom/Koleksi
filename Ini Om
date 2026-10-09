@@ -1,3 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="Nasional",Indosiar
+http://103.152.118.53:80/streams/indosiar/index.m3u8
+
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",GTV (576p)
 http://203.77.246.58:4500/udp/239.1.3.68:5000
