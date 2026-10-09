@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml" refresh="3600"
 
 #EXTM3U
-# (●) Last Updated: 2026-10-08 21:21:12 GMT+7 "
+# (●) Last Updated: 2026-10-09 19:01:12 GMT+7 "
 
 #EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -51,12 +51,23 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 =TRANS MEDIA=
 
 #EXTINF:-1 ch-number="9" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional" group-logo="", Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 ch-number="10" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional" group-logo="", Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+#EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans7 Vision+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 ch-number="11" tvg-id="CNNIndonesia.id" tvg-name="CNNIndonesia.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/CNNINDO.png" group-title="🇮🇩 Nasional" group-logo="", CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -116,7 +127,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #https://edge.medcom.id/live-edge/smil:bnch.smil/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
 
 =KOMPAS GRAMEDIA=
 
@@ -190,11 +200,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 
-#EXTINF:-1 ch-number="30" tvg-id="SinPoTV.id@HD" tvg-name="SIN PO TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 ch-number="30" tvg-id="Sindo.News.TV.id" tvg-name"Sindo News TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINDONEWS.png" group-title="🇮🇩 Nasional" group-logo="", Sindo News TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/OXYGENTV.png" group-title="🇮🇩 Nasional" group-logo="", Oxygen TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
@@ -209,7 +220,7 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62295
 
 
 #==== ALTERNATIVE  CHANNEL ====#
-# Updated: 2026-10-08 21:21:12 #
+# Updated: 2026-10-09 19:01:12 #
 <========== CADANGAN ==========>
 
 #MNC#
@@ -307,6 +318,7 @@ https://vidsemar.pages.dev/terraluna2/204.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=204&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
+
 INDOSIAR
 
 #EXTINF:-1 ch-number="" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional Alt" group-logo="", Indosiar Ratu
@@ -341,6 +353,7 @@ https://vidsemar.pages.dev/terraluna2/205.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
+
 MENTARI
 
 #EXTINF:-1 ch-number="8" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional Alt" group-logo="", Mentari TV
@@ -354,13 +367,8 @@ http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 TRANSTV
 
 #EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans TV Vision+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
 #EXTINF:-1 ch-number="" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans TV Golden
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWlgqdfrd2_NOs-03Qe2iQTV
@@ -378,16 +386,12 @@ https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=transtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
+
 TRANS7
 
 #EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans7 Vision+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 #EXTINF:-1 ch-number="" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional Alt" group-logo="", Trans7 Golden
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWms5nBvsmR3Kg-IjWDDTyDG
@@ -404,6 +408,7 @@ https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=trans7
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
 
 #VIVA#
 
