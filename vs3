@@ -367,9 +367,19 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 
 #EXTINF:-1 ch-number="" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional Alt" group-logo="", Mentari TV Ratu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
+#EXTINF:-1 ch-number="" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional Alt" group-logo="", Mentari TV Ratu 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+
+#EXTINF:-1 ch-number="" tvg-id="auto.mentari.tb.fhd" tvg-name="MENTARI TV FHD" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional Alt" group-logo="", Mentari TV Ratu 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
 #TRANSVISION
 
@@ -425,8 +435,16 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #VIVA#
 
+#EXTINF:0 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",ANTV (2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=antv
+
 #EXTINF:-1 ch-number="13" tvg-id="ANTV.id" tvg-name="ANTV." tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ANTV.png" group-title="🇮🇩 Nasional Alt" group-logo="", ANTV Calista
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
