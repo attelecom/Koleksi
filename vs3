@@ -91,8 +91,8 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 http://tvratu.my.id/vid/index.mpd?id=782&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTINF:-1 ch-number="14" tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVONE.png" group-title="🇮🇩 Nasional" group-logo="", TVOne
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
