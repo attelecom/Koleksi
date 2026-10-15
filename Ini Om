@@ -1,5 +1,8 @@
 #EXTM3U
 
+https://raw.githubusercontent.com/Vans-lab/PASTE/d8e8bffbfa4d9bddafc7e8b06c8c395fe4c7bfcc/Paste1000.txt
+
+
 #EXTINF:-1 tvg-id="" tvg-name="IDS: BLOOMBERG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/bloomberg.png" group-title="ASIA | INDONESIA VIP",IDS: BLOOMBERG VIP
 http://31.43.191.125:8080/restream/restream/34311
 #EXTINF:-1 tvg-id="" tvg-name="IDS: CGTN DOCUMENTARY VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cgtndocumentary.png" group-title="ASIA | INDONESIA VIP",IDS: CGTN DOCUMENTARY VIP
