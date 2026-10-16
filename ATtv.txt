@@ -85,7 +85,7 @@ https://filex.asia:8443/live/1234567/7654321/302245.ts
 #EXTINF:-1 resolution="854x480"tvg-id="eentertainment.de" tvg-name="ID: GEM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="FXIndonesia",ID: GEM HD
 https://filex.asia:8443/live/1234567/7654321/302246.ts
 #EXTINF:-1 resolution="854x480"tvg-id="tvg2.us" tvg-name="ID: GTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="FXIndonesia",ID: GTV HD
-https://filex.asia:8443/hls/1234567/7654321/302247.m3u8
+https://filex.asia:8443/live/1234567/7654321/302247.m3u8
 #EXTINF:-1 resolution="854x480"tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="FXIndonesia",ID: HBO HD
 https://filex.asia:8443/live/1234567/7654321/302248.ts
 #EXTINF:-1 resolution="854x480"tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="FXIndonesia",ID: HBO Family HD
