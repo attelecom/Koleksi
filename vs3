@@ -245,7 +245,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+##KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 ch-number="31" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
