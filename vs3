@@ -10,21 +10,25 @@
 #EXTM3U
 # (●) Last Updated: 2026-10-18 14:14:14 GMT+7
 
-#EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN 1
+#EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=153
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
-#EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
+##EXTINF:-1 ch-number="" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ALQURAN.png" group-title="🇮🇩 Nasional" group-logo="", ALQURAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=153
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
 
 =MNC=
@@ -233,8 +237,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 ch-number="31" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
