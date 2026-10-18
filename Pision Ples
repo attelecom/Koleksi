@@ -3,18 +3,13 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png" group-title="📂 CH VISION+",RCTI
-##KODIPROP:inputstreamaddon=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://ayo.maling.pl/V/vision/id=1.cok.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="📂 CH VISION+",MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
