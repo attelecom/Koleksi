@@ -11,6 +11,14 @@
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://ayo.maling.pl/V/vision/id=1.cok.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="📂 CH VISION+",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -66,21 +74,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://ayo.maling.pl/V/vision/id=7.cok.mpd
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://www.visionplus.id/images/repository/064/569064-LOGO-m.png" group-title="📂 CH VISION+",SCTV
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="📂 CH VISION+",Indosiar
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="📂 CH VISION+",ANTV
@@ -156,21 +160,19 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/in
 https://ayo.maling.pl/V/vision/id=18.cok.mpd
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://www.visionplus.id/images/repository/072/569072-LOGO-m.png" group-title="📂 CH VISION+",Moji
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png" group-title="📂 CH VISION+",Mentari TV
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://www.visionplus.id/images/repository/752/507752-LOGO-m.png" group-title="📂 CH VISION+",MDTV
@@ -431,6 +433,7 @@ https://ayo.maling.pl/V/vision/id=73.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=74
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://ayo.maling.pl/V/vision/id=74.cok.mpd
 
 #EXTINF:-1 tvg-id="75" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="📂 CH VISION+",KIX
@@ -788,51 +791,47 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 https://ayo.maling.pl/V/vision/id=105.cok.mpd
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="📂 CH VISION+",Sportstars
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 2
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 3
+#EXTINF:-1 tvg-id="114" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9999
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9999
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://ayo.maling.pl/V/vision/id=114.cok.mpd
 https://ayo.maling.pl/V/vision/id=9999.cok.mpd
 
 #EXTINF:-1 tvg-id="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 4
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 https://ayo.maling.pl/V/vision/id=205.cok.mpd
 
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="📂 CH VISION+",Soccer Channel
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" group-title="📂 CH VISION+",SPOTV
