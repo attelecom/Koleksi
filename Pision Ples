@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://ayo.maling.pl/V/vision/id=1.cok.mpd
+id=1
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png" group-title="📂 CH VISION+",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -16,7 +16,7 @@ https://ayo.maling.pl/V/vision/id=1.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://ayo.maling.pl/V/vision/id=2.cok.mpd
+id=2
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.visionplus.id/images/repository/735/507735-LOGO-m.png" group-title="📂 CH VISION+",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -24,7 +24,7 @@ https://ayo.maling.pl/V/vision/id=2.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-https://ayo.maling.pl/V/vision/id=3.cok.mpd
+id=3
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://www.visionplus.id/images/repository/792/513792-LOGO-m.png" group-title="📂 CH VISION+",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -32,7 +32,7 @@ https://ayo.maling.pl/V/vision/id=3.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
-https://ayo.maling.pl/V/vision/id=4.cok.mpd
+id=4
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="📂 CH VISION+",SINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -40,7 +40,7 @@ https://ayo.maling.pl/V/vision/id=4.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-https://ayo.maling.pl/V/vision/id=5.cok.mpd
+id=5
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.visionplus.id/images/repository/209/514209-LOGO-m.png" group-title="📂 CH VISION+",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -48,7 +48,7 @@ https://ayo.maling.pl/V/vision/id=5.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-https://ayo.maling.pl/V/vision/id=6.cok.mpd
+id=6
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://www.visionplus.id/images/repository/207/514207-LOGO-m.png" group-title="📂 CH VISION+",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -56,7 +56,7 @@ https://ayo.maling.pl/V/vision/id=6.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-https://ayo.maling.pl/V/vision/id=7.cok.mpd
+id=7
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://www.visionplus.id/images/repository/064/569064-LOGO-m.png" group-title="📂 CH VISION+",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -64,6 +64,7 @@ https://ayo.maling.pl/V/vision/id=7.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+id=8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="📂 CH VISION+",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -71,6 +72,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+id=9
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="📂 CH VISION+",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -78,7 +80,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-https://ayo.maling.pl/V/vision/id=10.cok.mpd
+id=10
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://www.visionplus.id/images/repository/832/513832-LOGO-m.png" group-title="📂 CH VISION+",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -86,7 +88,7 @@ https://ayo.maling.pl/V/vision/id=10.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=11
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
-https://ayo.maling.pl/V/vision/id=11.cok.mpd
+id=11
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://www.visionplus.id/images/repository/822/513822-LOGO-m.png" group-title="📂 CH VISION+",TV One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -94,7 +96,7 @@ https://ayo.maling.pl/V/vision/id=11.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-https://ayo.maling.pl/V/vision/id=12.cok.mpd
+id=12
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="📂 CH VISION+",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -102,7 +104,7 @@ https://ayo.maling.pl/V/vision/id=12.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=13
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-https://ayo.maling.pl/V/vision/id=13.cok.mpd
+id=13
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://www.visionplus.id/images/repository/802/513802-LOGO-m.png" group-title="📂 CH VISION+",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -110,7 +112,7 @@ https://ayo.maling.pl/V/vision/id=13.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=14
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-https://ayo.maling.pl/V/vision/id=14.cok.mpd
+id=14
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png" group-title="📂 CH VISION+",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -118,7 +120,7 @@ https://ayo.maling.pl/V/vision/id=14.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
-https://ayo.maling.pl/V/vision/id=15.cok.mpd
+id=15
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="📂 CH VISION+",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -126,7 +128,7 @@ https://ayo.maling.pl/V/vision/id=15.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=16
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
-https://ayo.maling.pl/V/vision/id=16.cok.mpd
+id=16
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="📂 CH VISION+",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -134,7 +136,7 @@ https://ayo.maling.pl/V/vision/id=16.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=18
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/index.mpd
-https://ayo.maling.pl/V/vision/id=18.cok.mpd
+id=18
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://www.visionplus.id/images/repository/072/569072-LOGO-m.png" group-title="📂 CH VISION+",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -142,6 +144,7 @@ https://ayo.maling.pl/V/vision/id=18.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=19
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
+id=19
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png" group-title="📂 CH VISION+",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -149,6 +152,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+id=20
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://www.visionplus.id/images/repository/752/507752-LOGO-m.png" group-title="📂 CH VISION+",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -156,7 +160,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-https://ayo.maling.pl/V/vision/id=23.cok.mpd
+id=23
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="📂 CH VISION+",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -164,7 +168,7 @@ https://ayo.maling.pl/V/vision/id=23.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=24
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
-https://ayo.maling.pl/V/vision/id=24.cok.mpd
+id=24
 
 #EXTINF:-1 tvg-id="25" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="📂 CH VISION+",JAKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -172,7 +176,7 @@ https://ayo.maling.pl/V/vision/id=24.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
-https://ayo.maling.pl/V/vision/id=25.cok.mpd
+id=25
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="📂 CH VISION+",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -180,7 +184,7 @@ https://ayo.maling.pl/V/vision/id=25.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-https://ayo.maling.pl/V/vision/id=26.cok.mpd
+id=26
 
 #EXTINF:-1 tvg-id="27" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="📂 CH VISION+",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -188,7 +192,7 @@ https://ayo.maling.pl/V/vision/id=26.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=27
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
-https://ayo.maling.pl/V/vision/id=27.cok.mpd
+id=27
 
 #EXTINF:-1 tvg-id="28" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="📂 CH VISION+",TV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -196,7 +200,7 @@ https://ayo.maling.pl/V/vision/id=27.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=28
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
-https://ayo.maling.pl/V/vision/id=28.cok.mpd
+id=28
 
 #EXTINF:-1 tvg-id="29" tvg-logo="https://www.visionplus.id/images/repository/839/437839-LOGO-m.png" group-title="📂 CH VISION+",DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -204,7 +208,7 @@ https://ayo.maling.pl/V/vision/id=28.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=29
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
-https://ayo.maling.pl/V/vision/id=29.cok.mpd
+id=29
 
 #EXTINF:-1 tvg-id="30" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png" group-title="📂 CH VISION+",TV MU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -212,7 +216,7 @@ https://ayo.maling.pl/V/vision/id=29.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=30
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
-https://ayo.maling.pl/V/vision/id=30.cok.mpd
+id=30
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="📂 CH VISION+",Originals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -220,7 +224,7 @@ https://ayo.maling.pl/V/vision/id=30.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-https://ayo.maling.pl/V/vision/id=36.cok.mpd
+id=36
 
 #EXTINF:-1 tvg-id="37" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="📂 CH VISION+",Buddy Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -228,7 +232,7 @@ https://ayo.maling.pl/V/vision/id=36.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=37
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-https://ayo.maling.pl/V/vision/id=37.cok.mpd
+id=37
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="📂 CH VISION+",Uniques
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -236,7 +240,7 @@ https://ayo.maling.pl/V/vision/id=37.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=38
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-https://ayo.maling.pl/V/vision/id=38.cok.mpd
+id=38
 
 #EXTINF:-1 tvg-id="39" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="📂 CH VISION+",Superrix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -244,7 +248,7 @@ https://ayo.maling.pl/V/vision/id=38.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=39
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-https://ayo.maling.pl/V/vision/id=39.cok.mpd
+id=39
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="📂 CH VISION+",Cineedge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -252,7 +256,7 @@ https://ayo.maling.pl/V/vision/id=39.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=40
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-https://ayo.maling.pl/V/vision/id=40.cok.mpd
+id=40
 
 #EXTINF:-1 tvg-id="41" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="📂 CH VISION+",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -260,7 +264,7 @@ https://ayo.maling.pl/V/vision/id=40.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-https://ayo.maling.pl/V/vision/id=41.cok.mpd
+id=41
 
 #EXTINF:-1 tvg-id="42" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png" group-title="📂 CH VISION+",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -268,7 +272,7 @@ https://ayo.maling.pl/V/vision/id=41.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
-https://ayo.maling.pl/V/vision/id=42.cok.mpd
+id=42
 
 #EXTINF:-1 tvg-id="44" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="📂 CH VISION+",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -276,7 +280,7 @@ https://ayo.maling.pl/V/vision/id=42.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-https://ayo.maling.pl/V/vision/id=44.cok.mpd
+id=44
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="📂 CH VISION+",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -284,7 +288,7 @@ https://ayo.maling.pl/V/vision/id=44.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-https://ayo.maling.pl/V/vision/id=45.cok.mpd
+id=45
 
 #EXTINF:-1 tvg-id="46" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="📂 CH VISION+",Tvn Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -292,7 +296,7 @@ https://ayo.maling.pl/V/vision/id=45.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-https://ayo.maling.pl/V/vision/id=46.cok.mpd
+id=46
 
 #EXTINF:-1 tvg-id="47" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="📂 CH VISION+",Z Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -300,7 +304,7 @@ https://ayo.maling.pl/V/vision/id=46.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-https://ayo.maling.pl/V/vision/id=47.cok.mpd
+id=47
 
 #EXTINF:-1 tvg-id="48" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="📂 CH VISION+",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -308,7 +312,7 @@ https://ayo.maling.pl/V/vision/id=47.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-https://ayo.maling.pl/V/vision/id=48.cok.mpd
+id=48
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="📂 CH VISION+",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -316,7 +320,7 @@ https://ayo.maling.pl/V/vision/id=48.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-https://ayo.maling.pl/V/vision/id=49.cok.mpd
+id=49
 
 #EXTINF:-1 tvg-id="50" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="📂 CH VISION+",iMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -324,7 +328,7 @@ https://ayo.maling.pl/V/vision/id=49.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-https://ayo.maling.pl/V/vision/id=50.cok.mpd
+id=50
 
 #EXTINF:-1 tvg-id="54" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png" group-title="📂 CH VISION+",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -332,7 +336,7 @@ https://ayo.maling.pl/V/vision/id=50.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-https://ayo.maling.pl/V/vision/id=54.cok.mpd
+id=54
 
 #EXTINF:-1 tvg-id="68" tvg-logo="https://www.visionplus.id/images/repository/376/612376-LOGO-m.png" group-title="📂 CH VISION+",Hits Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -340,7 +344,7 @@ https://ayo.maling.pl/V/vision/id=54.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=68
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
-https://ayo.maling.pl/V/vision/id=68.cok.mpd
+id=68
 
 #EXTINF:-1 tvg-id="69" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png" group-title="📂 CH VISION+",FTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -348,7 +352,7 @@ https://ayo.maling.pl/V/vision/id=68.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=69
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
-https://ayo.maling.pl/V/vision/id=69.cok.mpd
+id=69
 
 #EXTINF:-1 tvg-id="70" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png" group-title="📂 CH VISION+",SET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -356,7 +360,7 @@ https://ayo.maling.pl/V/vision/id=69.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=70
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
-https://ayo.maling.pl/V/vision/id=70.cok.mpd
+id=70
 
 #EXTINF:-1 tvg-id="72" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png" group-title="📂 CH VISION+",ENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -364,7 +368,7 @@ https://ayo.maling.pl/V/vision/id=70.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=72
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
-https://ayo.maling.pl/V/vision/id=72.cok.mpd
+id=72
 
 #EXTINF:-1 tvg-id="73" tvg-logo="https://www.visionplus.id/images/repository/103/458103-LOGO-m.png" group-title="📂 CH VISION+",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -372,7 +376,7 @@ https://ayo.maling.pl/V/vision/id=72.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-https://ayo.maling.pl/V/vision/id=73.cok.mpd
+id=73
 
 #EXTINF:-1 tvg-id="74" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="📂 CH VISION+",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -381,7 +385,7 @@ https://ayo.maling.pl/V/vision/id=73.cok.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=74
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-https://ayo.maling.pl/V/vision/id=74.cok.mpd
+id=74
 
 #EXTINF:-1 tvg-id="75" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="📂 CH VISION+",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -389,7 +393,7 @@ https://ayo.maling.pl/V/vision/id=74.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-https://ayo.maling.pl/V/vision/id=75.cok.mpd
+id=75
 
 #EXTINF:-1 tvg-id="76" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png" group-title="📂 CH VISION+",NHK World Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -397,7 +401,7 @@ https://ayo.maling.pl/V/vision/id=75.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=76
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
-https://ayo.maling.pl/V/vision/id=76.cok.mpd
+id=76
 
 #EXTINF:-1 tvg-id="77" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png" group-title="📂 CH VISION+",HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -405,7 +409,7 @@ https://ayo.maling.pl/V/vision/id=76.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-https://ayo.maling.pl/V/vision/id=77.cok.mpd
+id=77
 
 #EXTINF:-1 tvg-id="79" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png" group-title="📂 CH VISION+",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -413,7 +417,7 @@ https://ayo.maling.pl/V/vision/id=77.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=79
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-https://ayo.maling.pl/V/vision/id=79.cok.mpd
+id=79
 
 #EXTINF:-1 tvg-id="80" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png" group-title="📂 CH VISION+",LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -421,7 +425,7 @@ https://ayo.maling.pl/V/vision/id=79.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=80
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
-https://ayo.maling.pl/V/vision/id=80.cok.mpd
+id=80
 
 #EXTINF:-1 tvg-id="87" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="📂 CH VISION+",VISION PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -429,7 +433,7 @@ https://ayo.maling.pl/V/vision/id=80.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=87
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-https://ayo.maling.pl/V/vision/id=87.cok.mpd
+id=87
 
 #EXTINF:-1 tvg-id="88" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png" group-title="📂 CH VISION+",Celebrities Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -437,7 +441,7 @@ https://ayo.maling.pl/V/vision/id=87.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=88
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
-https://ayo.maling.pl/V/vision/id=88.cok.mpd
+id=88
 
 #EXTINF:-1 tvg-id="89" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png" group-title="📂 CH VISION+",Hanacaraka Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -445,7 +449,7 @@ https://ayo.maling.pl/V/vision/id=88.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
-https://ayo.maling.pl/V/vision/id=89.cok.mpd
+id=89
 
 #EXTINF:-1 tvg-id="92" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-title="📂 CH VISION+",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -453,7 +457,7 @@ https://ayo.maling.pl/V/vision/id=89.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
-https://ayo.maling.pl/V/vision/id=92.cok.mpd
+id=92
 
 #EXTINF:-1 tvg-id="93" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="📂 CH VISION+",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -461,7 +465,7 @@ https://ayo.maling.pl/V/vision/id=92.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-https://ayo.maling.pl/V/vision/id=93.cok.mpd
+id=93
 
 #EXTINF:-1 tvg-id="158" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-m.png" group-title="📂 CH VISION+",Xing Kong TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -469,7 +473,7 @@ https://ayo.maling.pl/V/vision/id=93.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=158
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
-https://ayo.maling.pl/V/vision/id=158.cok.mpd
+id=158
 
 #EXTINF:-1 tvg-id="159" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="📂 CH VISION+",Dragon TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -477,7 +481,7 @@ https://ayo.maling.pl/V/vision/id=158.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=159
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
-https://ayo.maling.pl/V/vision/id=159.cok.mpd
+id=159
 
 #EXTINF:-1 tvg-id="160" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="📂 CH VISION+",Hunan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -485,7 +489,7 @@ https://ayo.maling.pl/V/vision/id=159.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=160
 https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
-https://ayo.maling.pl/V/vision/id=160.cok.mpd
+id=160
 
 #EXTINF:-1 tvg-id="161" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="📂 CH VISION+",JSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -493,7 +497,7 @@ https://ayo.maling.pl/V/vision/id=160.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=161
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
-https://ayo.maling.pl/V/vision/id=161.cok.mpd
+id=161
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png" group-title="📂 CH VISION+",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -501,7 +505,7 @@ https://ayo.maling.pl/V/vision/id=161.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=162
 https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
-https://ayo.maling.pl/V/vision/id=162.cok.mpd
+id=162
 
 #EXTINF:-1 tvg-id="163" tvg-logo="https://www.visionplus.id/images/repository/311/580311-LOGO-m.png" group-title="📂 CH VISION+",Tv5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -509,7 +513,7 @@ https://ayo.maling.pl/V/vision/id=162.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=163
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
-https://ayo.maling.pl/V/vision/id=163.cok.mpd
+id=163
 
 #EXTINF:-1 tvg-id="164" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png" group-title="📂 CH VISION+",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -517,7 +521,7 @@ https://ayo.maling.pl/V/vision/id=163.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=164
 https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
-https://ayo.maling.pl/V/vision/id=164.cok.mpd
+id=164
 
 #EXTINF:-1 tvg-id="165" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png" group-title="📂 CH VISION+",ABC Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -525,7 +529,7 @@ https://ayo.maling.pl/V/vision/id=164.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=165
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
-https://ayo.maling.pl/V/vision/id=165.cok.mpd
+id=165
 
 #EXTINF:-1 tvg-id="204" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="📂 CH VISION+",Drama World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -533,7 +537,7 @@ https://ayo.maling.pl/V/vision/id=165.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=204
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
-https://ayo.maling.pl/V/vision/id=204.cok.mpd
+id=204
 
 #EXTINF:-1 tvg-id="201" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="📂 CH VISION+",RCTI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -541,7 +545,7 @@ https://ayo.maling.pl/V/vision/id=204.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=201
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
-https://ayo.maling.pl/V/vision/id=201.cok.mpd
+id=201
 
 #EXTINF:-1 tvg-id="202" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png" group-title="📂 CH VISION+",GTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -549,7 +553,7 @@ https://ayo.maling.pl/V/vision/id=201.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=202
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
-https://ayo.maling.pl/V/vision/id=202.cok.mpd
+id=202
 
 #EXTINF:-1 tvg-id="203" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png" group-title="📂 CH VISION+",MNCTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -557,7 +561,7 @@ https://ayo.maling.pl/V/vision/id=202.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=203
 https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
-https://ayo.maling.pl/V/vision/id=203.cok.mpd
+id=203
 
 #EXTINF:-1 tvg-id="251" tvg-logo="https://www.visionplus.id/images/repository/711/112711-LOGO-m.png" group-title="📂 CH VISION+",DFC
 ##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -586,7 +590,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=56
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-https://ayo.maling.pl/V/vision/id=56.cok.mpd
+id=56
 
 #EXTINF:-1 tvg-id="57" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="📂 CH VISION+",Moonbug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -594,7 +598,7 @@ https://ayo.maling.pl/V/vision/id=56.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=57
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
-https://ayo.maling.pl/V/vision/id=57.cok.mpd
+id=57
 
 #EXTINF:-1 tvg-id="58" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png" group-title="📂 CH VISION+",Cebeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -602,7 +606,7 @@ https://ayo.maling.pl/V/vision/id=57.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=58
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-https://ayo.maling.pl/V/vision/id=58.cok.mpd
+id=58
 
 #EXTINF:-1 tvg-id="60" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="📂 CH VISION+",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -610,7 +614,7 @@ https://ayo.maling.pl/V/vision/id=58.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-https://ayo.maling.pl/V/vision/id=60.cok.mpd
+id=60
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="📂 CH VISION+",Zoomoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -618,7 +622,7 @@ https://ayo.maling.pl/V/vision/id=60.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-https://ayo.maling.pl/V/vision/id=63.cok.mpd
+id=63
 
 #EXTINF:-1 tvg-id="64" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="📂 CH VISION+",Nick
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -626,7 +630,7 @@ https://ayo.maling.pl/V/vision/id=63.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-https://ayo.maling.pl/V/vision/id=64.cok.mpd
+id=64
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="📂 CH VISION+",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -634,7 +638,7 @@ https://ayo.maling.pl/V/vision/id=64.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-https://ayo.maling.pl/V/vision/id=65.cok.mpd
+id=65
 
 #EXTINF:-1 tvg-id="67" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png" group-title="📂 CH VISION+",Dreamworks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -642,7 +646,7 @@ https://ayo.maling.pl/V/vision/id=65.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-https://ayo.maling.pl/V/vision/id=67.cok.mpd
+id=67
 
 #EXTINF:-1 tvg-id="71" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="📂 CH VISION+",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -650,7 +654,7 @@ https://ayo.maling.pl/V/vision/id=67.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=71
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-https://ayo.maling.pl/V/vision/id=71.cok.mpd
+id=71
 
 #EXTINF:-1 tvg-id="95" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png" group-title="📂 CH VISION+",Crime+ Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -658,7 +662,7 @@ https://ayo.maling.pl/V/vision/id=71.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-https://ayo.maling.pl/V/vision/id=95.cok.mpd
+id=95
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png" group-title="📂 CH VISION+",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -666,7 +670,7 @@ https://ayo.maling.pl/V/vision/id=95.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=101
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
-https://ayo.maling.pl/V/vision/id=101.cok.mpd
+id=101
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png" group-title="📂 CH VISION+",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -674,7 +678,7 @@ https://ayo.maling.pl/V/vision/id=101.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=102
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-https://ayo.maling.pl/V/vision/id=102.cok.mpd
+id=102
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png" group-title="📂 CH VISION+",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -682,7 +686,7 @@ https://ayo.maling.pl/V/vision/id=102.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=103
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
-https://ayo.maling.pl/V/vision/id=103.cok.mpd
+id=103
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png" group-title="📂 CH VISION+",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -690,7 +694,7 @@ https://ayo.maling.pl/V/vision/id=103.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=104
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
-https://ayo.maling.pl/V/vision/id=104.cok.mpd
+id=104
 
 #EXTINF:-1 tvg-id="105" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-m.png" group-title="📂 CH VISION+",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -698,7 +702,7 @@ https://ayo.maling.pl/V/vision/id=104.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=105
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
-https://ayo.maling.pl/V/vision/id=105.cok.mpd
+id=105
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="📂 CH VISION+",Sportstars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -706,6 +710,7 @@ https://ayo.maling.pl/V/vision/id=105.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+id=112
 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -713,6 +718,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+id=113
 
 #EXTINF:-1 tvg-id="114" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -721,8 +727,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
 ##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9999
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://ayo.maling.pl/V/vision/id=114.cok.mpd
-https://ayo.maling.pl/V/vision/id=9999.cok.mpd
+id=114
+id=9999
 
 #EXTINF:-1 tvg-id="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="📂 CH VISION+",Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -730,7 +736,7 @@ https://ayo.maling.pl/V/vision/id=9999.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-https://ayo.maling.pl/V/vision/id=205.cok.mpd
+id=205
 
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="📂 CH VISION+",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -738,6 +744,7 @@ https://ayo.maling.pl/V/vision/id=205.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+id=115
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" group-title="📂 CH VISION+",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -745,7 +752,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://ayo.maling.pl/V/vision/id=119.cok.mpd
+id=119
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" group-title="📂 CH VISION+",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -753,7 +760,7 @@ https://ayo.maling.pl/V/vision/id=119.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://ayo.maling.pl/V/vision/id=120.cok.mpd
+id=120
 
 #EXTINF:-1 tvg-id="121" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="📂 CH VISION+",Fight Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -761,7 +768,7 @@ https://ayo.maling.pl/V/vision/id=120.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-https://ayo.maling.pl/V/vision/id=121.cok.mpd
+id=121
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" group-title="📂 CH VISION+",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -769,7 +776,7 @@ https://ayo.maling.pl/V/vision/id=121.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-https://ayo.maling.pl/V/vision/id=122.cok.mpd
+id=122
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="📂 CH VISION+",Bein Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -777,7 +784,7 @@ https://ayo.maling.pl/V/vision/id=122.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-https://ayo.maling.pl/V/vision/id=123.cok.mpd
+id=123
 
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="📂 CH VISION+",Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -785,7 +792,7 @@ https://ayo.maling.pl/V/vision/id=123.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-https://ayo.maling.pl/V/vision/id=124.cok.mpd
+id=124
 
 #EXTINF:-1 tvg-id="125" tvg-logo="https://www.visionplus.id/images/repository/884/522884-LOGO-m.png" group-title="📂 CH VISION+",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -793,7 +800,7 @@ https://ayo.maling.pl/V/vision/id=124.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=125
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-https://ayo.maling.pl/V/vision/id=125.cok.mpd
+id=125
 
 #EXTINF:-1 tvg-id="126" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="📂 CH VISION+",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -801,7 +808,7 @@ https://ayo.maling.pl/V/vision/id=125.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=126
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-https://ayo.maling.pl/V/vision/id=126.cok.mpd
+id=126
 
 #EXTINF:-1 tvg-id="130" tvg-logo="https://www.visionplus.id/images/repository/672/493672-LOGO-m.png" group-title="📂 CH VISION+",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -809,7 +816,7 @@ https://ayo.maling.pl/V/vision/id=126.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=130
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
-https://ayo.maling.pl/V/vision/id=130.cok.mpd
+id=130
 
 #EXTINF:-1 tvg-id="131" tvg-logo="https://www.visionplus.id/images/repository/382/600382-LOGO-m.png" group-title="📂 CH VISION+",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -817,7 +824,7 @@ https://ayo.maling.pl/V/vision/id=130.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=131
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
-https://ayo.maling.pl/V/vision/id=131.cok.mpd
+id=131
 
 #EXTINF:-1 tvg-id="132" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png" group-title="📂 CH VISION+",Fox News Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -825,7 +832,7 @@ https://ayo.maling.pl/V/vision/id=131.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=132
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
-https://ayo.maling.pl/V/vision/id=132.cok.mpd
+id=132
 
 #EXTINF:-1 tvg-id="133" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png" group-title="📂 CH VISION+",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -833,7 +840,7 @@ https://ayo.maling.pl/V/vision/id=132.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=133
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
-https://ayo.maling.pl/V/vision/id=133.cok.mpd
+id=133
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="📂 CH VISION+",IDX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -841,7 +848,7 @@ https://ayo.maling.pl/V/vision/id=133.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
-https://ayo.maling.pl/V/vision/id=134.cok.mpd
+id=134
 
 #EXTINF:-1 tvg-id="137" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png" group-title="📂 CH VISION+",Muslim Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -849,7 +856,7 @@ https://ayo.maling.pl/V/vision/id=134.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=137
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
-https://ayo.maling.pl/V/vision/id=137.cok.mpd
+id=137
 
 #EXTINF:-1 tvg-id="138" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-m.png" group-title="📂 CH VISION+",Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -857,7 +864,7 @@ https://ayo.maling.pl/V/vision/id=137.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=138
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
-https://ayo.maling.pl/V/vision/id=138.cok.mpd
+id=138
 
 #EXTINF:-1 tvg-id="139" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png" group-title="📂 CH VISION+",Reformed 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -865,7 +872,7 @@ https://ayo.maling.pl/V/vision/id=138.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=139
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
-https://ayo.maling.pl/V/vision/id=139.cok.mpd
+id=139
 
 #EXTINF:-1 tvg-id="142" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" group-title="📂 CH VISION+",Music Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -873,7 +880,7 @@ https://ayo.maling.pl/V/vision/id=139.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=142
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-https://ayo.maling.pl/V/vision/id=142.cok.mpd
+id=142
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png" group-title="📂 CH VISION+",DW News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -881,7 +888,7 @@ https://ayo.maling.pl/V/vision/id=142.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=146
 https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
-https://ayo.maling.pl/V/vision/id=146.cok.mpd
+id=146
 
 #EXTINF:-1 tvg-id="147" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png" group-title="📂 CH VISION+",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -889,7 +896,7 @@ https://ayo.maling.pl/V/vision/id=146.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=147
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
-https://ayo.maling.pl/V/vision/id=147.cok.mpd
+id=147
 
 #EXTINF:-1 tvg-id="148" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png" group-title="📂 CH VISION+",TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -897,7 +904,7 @@ https://ayo.maling.pl/V/vision/id=147.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=148
 https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
-https://ayo.maling.pl/V/vision/id=148.cok.mpd
+id=148
 
 #EXTINF:-1 tvg-id="149" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png" group-title="📂 CH VISION+",Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -905,7 +912,7 @@ https://ayo.maling.pl/V/vision/id=148.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=149
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
-https://ayo.maling.pl/V/vision/id=149.cok.mpd
+id=149
 
 #EXTINF:-1 tvg-id="150" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png" group-title="📂 CH VISION+",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -913,7 +920,7 @@ https://ayo.maling.pl/V/vision/id=149.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=150
 https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
-https://ayo.maling.pl/V/vision/id=150.cok.mpd
+id=150
 
 #EXTINF:-1 tvg-id="151" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png" group-title="📂 CH VISION+",Euro News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -921,7 +928,7 @@ https://ayo.maling.pl/V/vision/id=150.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=151
 https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
-https://ayo.maling.pl/V/vision/id=151.cok.mpd
+id=151
 
 #EXTINF:-1 tvg-id="152" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png" group-title="📂 CH VISION+",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -929,7 +936,7 @@ https://ayo.maling.pl/V/vision/id=151.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=152
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
-https://ayo.maling.pl/V/vision/id=152.cok.mpd
+id=152
 
 #EXTINF:-1 tvg-id="153" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png" group-title="📂 CH VISION+",Alquran AlKarem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -937,7 +944,7 @@ https://ayo.maling.pl/V/vision/id=152.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=153
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
-https://ayo.maling.pl/V/vision/id=153.cok.mpd
+id=153
 
 #EXTINF:-1 tvg-id="154" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-m.png" group-title="📂 CH VISION+",EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -945,7 +952,7 @@ https://ayo.maling.pl/V/vision/id=153.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=154
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
-https://ayo.maling.pl/V/vision/id=154.cok.mpd
+id=154
 
 #EXTINF:-1 tvg-id="155" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png" group-title="📂 CH VISION+",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -953,7 +960,7 @@ https://ayo.maling.pl/V/vision/id=154.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=155
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
-https://ayo.maling.pl/V/vision/id=155.cok.mpd
+id=155
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png" group-title="📂 CH VISION+",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -961,7 +968,7 @@ https://ayo.maling.pl/V/vision/id=155.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=156
 https://d3rzhldmr21hry.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
-https://ayo.maling.pl/V/vision/id=156.cok.mpd
+id=156
 
 #EXTINF:-1 tvg-id="157" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png" group-title="📂 CH VISION+",Anhui Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -969,7 +976,7 @@ https://ayo.maling.pl/V/vision/id=156.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=157
 https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
-https://ayo.maling.pl/V/vision/id=157.cok.mpd
+id=157
 
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" group-title="📂 CH VISION+",V+ Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -977,15 +984,13 @@ https://ayo.maling.pl/V/vision/id=157.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1002
 https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
-https://ayo.maling.pl/V/vision/id=1002.cok.mpd
+id=1002
 
 #EXTINF:-1 tvg-id="1008" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png" group-title="📂 CH VISION+",R+ LIVE
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://metahost.biz.id/visiona/drm.license?id=1012
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1012
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 2
@@ -994,7 +999,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1010
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://ayo.maling.pl/V/vision/id=1010.cok.mpd
+id=1010
 
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="📂 CH VISION+",V+Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1002,7 +1007,7 @@ https://ayo.maling.pl/V/vision/id=1010.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1011
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
-https://ayo.maling.pl/V/vision/id=1011.cok.mpd
+id=1011
 
 #EXTINF:-1 tvg-id="1012" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1010,16 +1015,15 @@ https://ayo.maling.pl/V/vision/id=1011.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1012
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
-https://ayo.maling.pl/V/vision/id=1012.cok.mpd
+id=1012
 
 #EXTINF:-1 tvg-id="1013" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 4
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.dantetivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1013
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+id=1013
 
 #EXTINF:-1 tvg-id="1014" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1027,7 +1031,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1014
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
-https://ayo.maling.pl/V/vision/id=1014.cok.mpd
+id=1014
 
 #EXTINF:-1 tvg-id="1015" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1035,18 +1039,16 @@ https://ayo.maling.pl/V/vision/id=1014.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1015
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
-https://ayo.maling.pl/V/vision/id=1015.cok.mpd
+id=1015
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://www.visionplus.id/images/repository/289/191289-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 7
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-##KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1012
 ###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
-https://ayo.maling.pl/V/vision/id=1012.cok.mpd
+id=1012
 
 #EXTINF:-1 tvg-id="1017" tvg-logo="https://www.visionplus.id/images/repository/290/191290-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1054,7 +1056,7 @@ https://ayo.maling.pl/V/vision/id=1012.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1017
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
-https://ayo.maling.pl/V/vision/id=1017.cok.mpd
+id=1017
 
 #EXTINF:-1 tvg-id="1018" tvg-logo="https://www.visionplus.id/images/repository/402/552402-LOGO-m.png" group-title="📂 CH VISION+",V+ Live 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1062,7 +1064,7 @@ https://ayo.maling.pl/V/vision/id=1017.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1018
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
-https://ayo.maling.pl/V/vision/id=1018.cok.mpd
+id=1018
 
 
 #EXTM3U url=""
