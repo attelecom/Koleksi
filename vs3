@@ -38,7 +38,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
+https://bintangstreaming.my.id/forsat23/rcti.php/.m3u8?id=rcti
 
 #EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="🇮🇩 Nasional" group-logo="", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -46,7 +46,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
+https://bintangstreaming.my.id/forsat23/rcti.php/.m3u8?id=mnctv
 
 #EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="🇮🇩 Nasional" group-logo="", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -54,7 +54,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
+https://bintangstreaming.my.id/forsat23/rcti.php/.m3u8?id=gtv
 
 #EXTINF:-1 ch-number="4" tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
 #EXTVLCOPT:http-user-agent=android-R+
@@ -62,7 +62,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
+https://bintangstreaming.my.id/forsat23/rcti.php/.m3u8?id=inewstv
 
 
 =EMTEK=
