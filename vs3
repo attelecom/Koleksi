@@ -69,13 +69,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 ch-number="5" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional" group-logo="", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ch-number="6" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional" group-logo="", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 http://202.150.172.59/Indosiar/index.m3u8
 
